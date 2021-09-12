@@ -1,0 +1,9 @@
+[submodule "plugins/basics"]
+    path = plugins/basics
+    url = https://github.com/aedifi/basics
+[submodule "plugins/edits"]
+    path = plugins/edits
+    url = https://github.com/aedifi/edits
+[submodule "plugins/extras"]
+    path = plugins/extras
+    url = https://github.com/aedifi/extras
